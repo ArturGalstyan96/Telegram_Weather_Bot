@@ -1,0 +1,2 @@
+openWeatherToken = 'd83815d8848519fb38e352c429e1dc0c'
+tgBotToken = '6114552322:AAEL7FUWv5MbMl121-m07xZIqm90pvJLmk4'
